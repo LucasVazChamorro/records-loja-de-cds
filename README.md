@@ -1,7 +1,7 @@
 # 🎸 Records - A sua loja de CDs e Vinis
 
 📌 **Deploy online:**  
-👉 [Acesse aqui o site publicado via GitHub Pages](inserir o link/)
+👉 [Acesse aqui o site publicado via GitHub Pages](https://lucasvazchamorro.github.io/records-loja-de-cds/)
 
 Este é um projeto desenvolvido com **HTML5** e **CSS3** puros, como parte do meu processo de aprendizado em desenvolvimento web. A proposta foi criar a página de uma loja fictícia de música especializada em **rock e metal**, com foco em estruturação semântica, estilo visual e responsividade básica.
 
@@ -19,7 +19,7 @@ Este é um projeto desenvolvido com **HTML5** e **CSS3** puros, como parte do me
 
 ## 🌐 Acesse o projeto online
 
-👉 [Clique aqui para ver o deploy no GitHub Pages](inserir o link/)  
+👉 [Clique aqui para ver o deploy no GitHub Pages](https://lucasvazchamorro.github.io/records-loja-de-cds/)  
 
 
 ---
